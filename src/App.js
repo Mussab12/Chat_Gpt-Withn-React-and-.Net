@@ -1,24 +1,62 @@
-import logo from './logo.svg';
-import './App.css';
+import axios from "axios";
+import React, { useEffect, useState, useRef } from "react";
 
 function App() {
+  const [state, setState] = useState({
+    Prompt: "",
+    response: "",
+  });
+  // const [response, setResponse] = useState("");
+  const dataFetched = useRef(false);
+
+  const getPrompt = async (query) => {
+    try {
+      const response = await axios.get(
+        `https://localhost:7179/api/OpenApi/UseChatGPT?query=${query}`
+      );
+      console.log(response.data);
+      setState({
+        ...state,
+        Prompt: "",
+        response: response.data,
+      });
+    } catch (error) {
+      console.log(error);
+    }
+  };
+
+  useEffect(() => {
+    if (dataFetched.current) return;
+    dataFetched.current = true;
+    console.log("useEffect called");
+  }, []);
+
+  const handleButtonClick = () => {
+    getPrompt(state.Prompt);
+  };
+
+  const handleInputChange = (event) => {
+    setState({
+      ...state,
+      Prompt: event.target.value,
+      response: state.response,
+    });
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <label htmlFor="exampleInputEmail1">Enter Your Prompt</label>
+      <input
+        type="text"
+        value={state.Prompt}
+        onChange={handleInputChange}
+        required
+      />
+      <button onClick={handleButtonClick} className="btn btn-primary">
+        Get Result
+      </button>
+      <p>{state.response}</p>
+    </>
   );
 }
 

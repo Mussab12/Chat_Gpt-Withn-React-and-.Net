@@ -1,0 +1,64 @@
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\bin\Debug\net6.0\appsettings.json
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\bin\Debug\net6.0\ChatGPTAPI.exe
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\bin\Debug\net6.0\ChatGPTAPI.deps.json
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\bin\Debug\net6.0\ChatGPTAPI.runtimeconfig.json
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\bin\Debug\net6.0\ChatGPTAPI.dll
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\bin\Debug\net6.0\ChatGPTAPI.pdb
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\ChatGPTAPI.csproj.AssemblyReference.cache
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\ChatGPTAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\ChatGPTAPI.AssemblyInfoInputs.cache
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\ChatGPTAPI.AssemblyInfo.cs
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\ChatGPTAPI.csproj.CoreCompileInputs.cache
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\ChatGPTAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\ChatGPTAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\staticwebassets\msbuild.ChatGPTAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ChatGPTAPI.props
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChatGPTAPI.props
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChatGPTAPI.props
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\staticwebassets.pack.json
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\scopedcss\bundle\ChatGPTAPI.styles.css
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\ChatGPTAPI.csproj.CopyComplete
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\ChatGPTAPI.dll
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\refint\ChatGPTAPI.dll
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\ChatGPTAPI.pdb
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\ChatGPTAPI.genruntimeconfig.cache
+D:\My Desk\Practice\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\ref\ChatGPTAPI.dll
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\bin\Debug\net6.0\ChatGPTAPI.exe
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\bin\Debug\net6.0\ChatGPTAPI.deps.json
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\bin\Debug\net6.0\ChatGPTAPI.runtimeconfig.json
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\bin\Debug\net6.0\ChatGPTAPI.dll
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\bin\Debug\net6.0\ChatGPTAPI.pdb
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\ChatGPTAPI.csproj.AssemblyReference.cache
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\ChatGPTAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\ChatGPTAPI.AssemblyInfoInputs.cache
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\ChatGPTAPI.AssemblyInfo.cs
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\ChatGPTAPI.csproj.CoreCompileInputs.cache
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\ChatGPTAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\ChatGPTAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\staticwebassets\msbuild.ChatGPTAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.ChatGPTAPI.props
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ChatGPTAPI.props
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ChatGPTAPI.props
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\scopedcss\bundle\ChatGPTAPI.styles.css
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\ChatGPTAPI.csproj.CopyComplete
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\ChatGPTAPI.dll
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\refint\ChatGPTAPI.dll
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\ChatGPTAPI.pdb
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\ChatGPTAPI.genruntimeconfig.cache
+C:\Users\shahi\Downloads\Compressed\ChatGPTAPI\ChatGPTAPI\obj\Debug\net6.0\ref\ChatGPTAPI.dll
